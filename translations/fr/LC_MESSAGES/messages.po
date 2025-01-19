@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fr\n"
+
+msgid "Operations on users"
+msgstr "Opérations sur les utilisateurs"
+
+msgid "Fetching all users."
+msgstr "Récupération de tous les utilisateurs."
+
+msgid "A user with that username already exists."
+msgstr "Un utilisateur avec ce nom existe déjà."
+
+msgid "An error occurred creating the user."
+msgstr "Une erreur s'est produite lors de la création de l'utilisateur."
+
+msgid "User not found."
+msgstr "Utilisateur non trouvé."
+
+msgid "Updating user details."
+msgstr "Mise à jour des informations de l'utilisateur."
+
+msgid "User deleted successfully."
+msgstr "Utilisateur supprimé avec succès."
+
+msgid "Operations on products"
+msgstr "Opérations sur les produits"
+
+msgid "Fetching all products."
+msgstr "Récupération de tous les produits."
+
+msgid "Product not found."
+msgstr "Produit non trouvé."
+
+msgid "Adding a new product."
+msgstr "Ajout d'un nouveau produit."
+
+msgid "Updating product details."
+msgstr "Mise à jour des informations du produit."
+
+msgid "Product deleted successfully."
+msgstr "Produit supprimé avec succès."
+
+msgid "Operations on services"
+msgstr "Opérations sur les services"
+
+msgid "Fetching all services."
+msgstr "Récupération de tous les services."
+
+msgid "Service not found."
+msgstr "Service non trouvé."
+
+msgid "Adding a new service."
+msgstr "Ajout d'un nouveau service."
+
+msgid "Updating service details."
+msgstr "Mise à jour des informations du service."
+
+msgid "Service deleted successfully."
+msgstr "Service supprimé avec succès."
+
+msgid "Operations on bookings"
+msgstr "Opérations sur les réservations"
+
+msgid "Fetching all bookings."
+msgstr "Récupération de toutes les réservations."
+
+msgid "Booking not found."
+msgstr "Réservation non trouvée."
+
+msgid "Adding a new booking."
+msgstr "Ajout d'une nouvelle réservation."
+
+msgid "Updating booking details."
+msgstr "Mise à jour des informations de la réservation."
+
+msgid "Booking deleted successfully."
+msgstr "Réservation supprimée avec succès."
+
+msgid "Integrity error occurred."
+msgstr "Une erreur d'intégrité s'est produite."
+
+msgid "Database error occurred."
+msgstr "Une erreur de base de données s'est produite."
+
+msgid "Internal server error."
+msgstr "Erreur interne du serveur."

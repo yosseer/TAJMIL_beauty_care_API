@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: ar\n"
+
+msgid "Operations on users"
+msgstr "عمليات على المستخدمين"
+
+msgid "Fetching all users."
+msgstr "جلب جميع المستخدمين."
+
+msgid "A user with that username already exists."
+msgstr "مستخدم بهذا الاسم موجود بالفعل."
+
+msgid "An error occurred creating the user."
+msgstr "حدث خطأ أثناء إنشاء المستخدم."
+
+msgid "User not found."
+msgstr "المستخدم غير موجود."
+
+msgid "Updating user details."
+msgstr "تحديث تفاصيل المستخدم."
+
+msgid "User deleted successfully."
+msgstr "تم حذف المستخدم بنجاح."
+
+msgid "Operations on products"
+msgstr "عمليات على المنتجات"
+
+msgid "Fetching all products."
+msgstr "جلب جميع المنتجات."
+
+msgid "Product not found."
+msgstr "المنتج غير موجود."
+
+msgid "Adding a new product."
+msgstr "إضافة منتج جديد."
+
+msgid "Updating product details."
+msgstr "تحديث تفاصيل المنتج."
+
+msgid "Product deleted successfully."
+msgstr "تم حذف المنتج بنجاح."
+
+msgid "Operations on services"
+msgstr "عمليات على الخدمات"
+
+msgid "Fetching all services."
+msgstr "جلب جميع الخدمات."
+
+msgid "Service not found."
+msgstr "الخدمة غير موجودة."
+
+msgid "Adding a new service."
+msgstr "إضافة خدمة جديدة."
+
+msgid "Updating service details."
+msgstr "تحديث تفاصيل الخدمة."
+
+msgid "Service deleted successfully."
+msgstr "تم حذف الخدمة بنجاح."
+
+msgid "Operations on bookings"
+msgstr "عمليات على الحجوزات"
+
+msgid "Fetching all bookings."
+msgstr "جلب جميع الحجوزات."
+
+msgid "Booking not found."
+msgstr "الحجز غير موجود."
+
+msgid "Adding a new booking."
+msgstr "إضافة حجز جديد."
+
+msgid "Updating booking details."
+msgstr "تحديث تفاصيل الحجز."
+
+msgid "Booking deleted successfully."
+msgstr "تم حذف الحجز بنجاح."
+
+msgid "Integrity error occurred."
+msgstr "حدث خطأ في تكامل البيانات."
+
+msgid "Database error occurred."
+msgstr "حدث خطأ في قاعدة البيانات."
+
+msgid "Internal server error."
+msgstr "خطأ داخلي في الخادم."

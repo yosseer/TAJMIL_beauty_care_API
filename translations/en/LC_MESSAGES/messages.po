@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+msgid "Operations on users"
+msgstr "Operations on users"
+
+msgid "Fetching all users."
+msgstr "Fetching all users."
+
+msgid "A user with that username already exists."
+msgstr "A user with that username already exists."
+
+msgid "An error occurred creating the user."
+msgstr "An error occurred creating the user."
+
+msgid "User not found."
+msgstr "User not found."
+
+msgid "Updating user details."
+msgstr "Updating user details."
+
+msgid "User deleted successfully."
+msgstr "User deleted successfully."
+
+msgid "Operations on products"
+msgstr "Operations on products"
+
+msgid "Fetching all products."
+msgstr "Fetching all products."
+
+msgid "Product not found."
+msgstr "Product not found."
+
+msgid "Adding a new product."
+msgstr "Adding a new product."
+
+msgid "Updating product details."
+msgstr "Updating product details."
+
+msgid "Product deleted successfully."
+msgstr "Product deleted successfully."
+
+msgid "Operations on services"
+msgstr "Operations on services"
+
+msgid "Fetching all services."
+msgstr "Fetching all services."
+
+msgid "Service not found."
+msgstr "Service not found."
+
+msgid "Adding a new service."
+msgstr "Adding a new service."
+
+msgid "Updating service details."
+msgstr "Updating service details."
+
+msgid "Service deleted successfully."
+msgstr "Service deleted successfully."
+
+msgid "Operations on bookings"
+msgstr "Operations on bookings"
+
+msgid "Fetching all bookings."
+msgstr "Fetching all bookings."
+
+msgid "Booking not found."
+msgstr "Booking not found."
+
+msgid "Adding a new booking."
+msgstr "Adding a new booking."
+
+msgid "Updating booking details."
+msgstr "Updating booking details."
+
+msgid "Booking deleted successfully."
+msgstr "Booking deleted successfully."
+
+msgid "Integrity error occurred."
+msgstr "Integrity error occurred."
+
+msgid "Database error occurred."
+msgstr "Database error occurred."
+
+msgid "Internal server error."
+msgstr "Internal server error."
